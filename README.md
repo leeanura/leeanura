@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lee.
+- 🌱 I’m currently begining my computer science journey. I have almost no experience.
+- 😄 Pronouns: They/Them
